@@ -1,15 +1,12 @@
-### Hi 👋
-# Hi, I'm Nguyen Son! <img src="http://sositech.xyz/gif/44.gif" width="auto" height="64px" alt="ami"/>
+# How do you do? Double_P is here <img src="https://i.pinimg.com/originals/87/3f/71/873f71c1f893a0aafad8695324fedfc9.gif" width="auto" height="64px" alt="ami"/>
 
-<a href="https://www.facebook.com/soicon.66/"
+<a href="https://www.facebook.com/hiennhanomoris"
     ><img
         src="https://img.shields.io/badge/-Facebook-0e76a8?style=plastic&logo=facebook"
         alt="facebook"
         title= "facebook"
         height="20"
 /></a>
-
-👦 My name is Nguyen Son and I'm learning Information Technology at PTIT. 👦
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
