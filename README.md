@@ -18,8 +18,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiennhanomoris&langs_count=10&theme=tokyonight&layout=compact" alt="Hiennhanomoris :: Top Langs" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hiennhanomoris" alt="Hiennhanomoris :: WakaTime" /></p>
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hiennhanomoris&show_icons=true&theme=synthwave" alt="Hiennhanomoris :: Profile Stats" /></p>
