@@ -14,10 +14,10 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Hiennhanomoris}/count.svg" alt="Hiennhanomoris :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiennhanomoris&langs_count=10&theme=tokyonight&layout=compact" alt="Hiennhanomoris :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hiennhanomoris&show_icons=true&theme=synthwave" alt="Hiennhanomoris :: Profile Stats" /></p>
