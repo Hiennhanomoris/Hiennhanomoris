@@ -8,36 +8,18 @@
         height="20"
 /></a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<span
-    ><img
-        src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"
-        alt="Visual Studio Code logo"
-        title="Visual Studio Code"
-        height="25"
-/></span>
-&nbsp;
+<h2 align="center">Github stats :bar_chart:</h2>
 
-<br>
+<h4 align="center">Visitor's count :eyes:</h4>
 
-<h2 align="center">️🏆 GitHub Stats ️🏆</h2>
-<br>
+<p align="center"><img src="https://profile-counter.glitch.me/{Hiennhanomoris}/count.svg" alt="Hiennhanomoris :: Visitor's Count" /></p>
 
-<div align="center">
-    <img
-        align="center"
-        width="434"
-        src="https://github-readme-stats.vercel.app/api?username=Hiennhanomoris&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-    />
-    <img
-        width="315"
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiennhanomoris&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
-    />
-    <br>
-</div>
+<h4 align="center">Top langs :tongue:</h4>
 
-<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiennhanomoris&langs_count=10&theme=tokyonight&layout=compact" alt="Hiennhanomoris :: Top Langs" /></p>
 
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hiennhanomoris" alt="Hiennhanomoris :: WakaTime" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hiennhanomris&show_icons=true&theme=synthwave" alt="Hiennhanomoris :: Profile Stats" /></p>
